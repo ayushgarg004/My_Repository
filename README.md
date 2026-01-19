@@ -1,2 +1,16 @@
 # My_Repository
 repository
+<!DOCTYPE html>
+<html>
+<head>
+<title>Analytics Practice site</title>
+
+<!google tag>
+</head>
+<body>
+<h1> welcome to analytics practice site</h1>
+<p> This site is used for google analytics practice. </p>
+<button id="buyBtn">buy now</button>
+  
+</body>
+</html>
